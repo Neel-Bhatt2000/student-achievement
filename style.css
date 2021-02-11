@@ -1,0 +1,67 @@
+body {background:url('images/bg.jpg');
+}
+
+#header-nav{
+    background:url('images/head.jpg');
+    border-radius: 0;
+    border: 0;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.oval img{
+    width: 560px;
+    height: 480px;
+    background:no-repeat;
+    border-radius: 50%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.photo{
+   width: 260px;
+   height: 180px;
+   background:no-repeat;
+   border-radius: 50%;
+}
+
+.achievement-details h3{
+    font-family: "Lobster", serif;
+    padding-left: 100px;
+    padding-top: 115px;
+    padding-right: 0px;
+    font-size: 2em;
+    color: yellow;
+}
+
+.achievement-details p{
+    padding-left: 100px;
+    padding-right: 0px;
+    font-size: 1.2em;
+}
+
+.achievement-details-even h3{
+    font-family: "Lobster", serif;
+    padding-left: 70px;
+    padding-top: 115px;
+    padding-right: 15px;
+    font-size: 2em;
+    color: yellow;
+
+}
+
+.achievement-details-even p{
+    padding-left: 70px;
+    padding-top: 0px;
+    padding-right: 15px;
+    font-size: 1.2em;
+}
+#f1{
+    color: black ;
+    font-weight: bold;
+}
+#f3{
+    color: navy;
+    font-weight: bold;
+}
+.f2{
+    color: white;
+}
